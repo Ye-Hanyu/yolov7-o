@@ -1,0 +1,4 @@
+*.pyc
+*.pt
+.history
+runs
